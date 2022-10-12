@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body {
+	background-color: lightblue;
+}
+table {
+	width: 200px;
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+a {
+	width: 100px;
+	padding: 20px;
+}
+
+a:hover {
+	background-color: yellow;
+}
+
+.warning {
+	color: red;
+}
